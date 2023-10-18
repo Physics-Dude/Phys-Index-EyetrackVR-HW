@@ -76,11 +76,14 @@ Steps specific to the dongle are as follows.
 ### Place
 - Insert your dismantled USB hub into the dongle along with the spare USB port.
 - Verify that your XIAO ESPs and ETVR v4 PCB fit in their slots. It may be tight, but if not, use adheasives.
+  
+![image](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/74e7402d-450c-492f-b3a7-142a5baf3cda)
 
 ### Solder
 - Solder your VUSB, GND, D+ and D- wires to your ESPs now.
 - Solder 2 wires to the bottom side of the ETVR v4 PCB for power
 - Route them like so. A small hole will let you route the ETVR v4 PCB wires into the main cavity.
+  
 ![image](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/ebd1d97f-1db6-4820-9f7b-50051227cad2)
 ![image](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/52638c85-f386-4deb-83b4-8d3549d063b0)
 
