@@ -89,7 +89,7 @@ Steps specific to the dongle are as follows.
 
 ![PXL_20231018_004047633s](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/fd6dcf94-8be5-466a-bdce-bf8423faa027)
 
-- They may seem to interfer with IPD adjustment, but try folding them so they take a twist as they travel behind the PCB and between the screens. Keep in mind you may loose about 3mm of IPD due to the LED placment when using solder less kit.
+- They may seem to interfere with IPD adjustment, but try folding them so they take a twist as they travel behind the PCB and between the screens. Keep in mind you may loose about 3mm of IPD due to the LED placment when using solder less kit.
 - Then they can be massaged through the vent holes in the frunk along with the extended LED power wires.
 
 ![image](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/c754b300-ecd5-4464-b1a7-9f2dc4894f6c)
