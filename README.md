@@ -53,6 +53,7 @@ Found on the likes of Amazon and Aliexpress. Its easy to modify for our purpose.
 - Misc 28-32AWG wire for lengthening LED power wires
 - 7x M2x5mm Countersink Self-tapping screws
 - 2x OV2640 160 degrees night version camera module 200MM (select 200MM night vision) - https://www.aliexpress.us/item/3256803720134565.html
+  
 ![image](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/6d43e56d-f3b4-4b63-8018-cfa709f892cf)
 
 Additional hardware options with more links available in the EyeTrackVR docs: https://docs.eyetrackvr.dev/how_to_build/parts_list
@@ -69,7 +70,7 @@ Steps specific to the dongle are as follows.
 
 ### Mod the hub
 - Take the aforementioned USB hub apart (it slides out with a little force) and de-solder all the connectors. Save at least one of the small USB 2.0 ones.
-- 
+
 ![image](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/3a32afaa-90f1-43b7-b7e9-bd138087fbd3)
 
 ### Place
