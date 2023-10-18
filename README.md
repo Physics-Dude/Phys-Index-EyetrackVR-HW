@@ -1,7 +1,7 @@
 # Phys-Index-EyetrackVR-HW
 Custom solution for a clean, unobtrusive, EyeTrackVR installation in the **Valve Index**.  
 
-## Project includes:
+### Project includes:
 - Custom camera and LED mounts based on bitbyt3r's design
 - All-in-one dongle that carries a USB hub, 2x XIAO ESP32s, the ETVR v4 PCB, and an extra USB port.
 
