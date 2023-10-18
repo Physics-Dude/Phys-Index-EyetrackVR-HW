@@ -1,5 +1,5 @@
 # Phys-Index-EyetrackVR-HW
-Custom solution for a clean, unobtrusive, EyetrackVR installation in the **Valve Index**.  
+Custom solution for a clean, unobtrusive, EyeTrackVR installation in the **Valve Index**.  
 
 Everything fits entirely within the envelope of the Valve Index. No modifications to the Valve Index headset are required whatsoever; just some clever cable routing. 
 
@@ -50,7 +50,7 @@ Found on the likes of Amazon and Aliexpress. Its easy to modify for our purpose.
 - 2x OV2640 160 degrees night version camera module 200MM (select 200MM night vision) - https://www.aliexpress.us/item/3256803720134565.html
 ![image](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/6d43e56d-f3b4-4b63-8018-cfa709f892cf)
 
-Additional hardware options with more links available in the EyetrackVR docs: https://docs.eyetrackvr.dev/how_to_build/parts_list
+Additional hardware options with more links available in the EyeTrackVR docs: https://docs.eyetrackvr.dev/how_to_build/parts_list
 
 ## Assemble it!
 Follow the EyetrackVR docs for primary assembly and programming: https://docs.eyetrackvr.dev/how_to_build/full_build
@@ -78,7 +78,7 @@ Steps specific to the dongle are as follows.
 ![image](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/52638c85-f386-4deb-83b4-8d3549d063b0)
 
 ### LEDs!
-- You will follow the instructions in the ETVR docs. but heres a picutre
+- You will follow the instructions in the ETVR docs and lengthen acouple wires, but heres a picutre:
 
 ![image](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/bbc47e03-1810-4876-a0a2-2518bddf8ec5)
 ![image](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/8baa2691-1626-4aee-9ac5-a737e5327128)
