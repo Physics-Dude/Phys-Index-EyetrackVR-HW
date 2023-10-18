@@ -77,8 +77,27 @@ Steps specific to the dongle are as follows.
 ![image](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/ebd1d97f-1db6-4820-9f7b-50051227cad2)
 ![image](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/52638c85-f386-4deb-83b4-8d3549d063b0)
 
+### LEDs!
+- You will follow the instructions in the ETVR docs. but heres a picutre
+
+![image](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/bbc47e03-1810-4876-a0a2-2518bddf8ec5)
+![image](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/8baa2691-1626-4aee-9ac5-a737e5327128)
+
 ### Cable Routing
+- Your 200mm camera ribbons can be pushed up the "nose" of the headset and around the top of the PCB.
+
+![PXL_20231018_004047633s](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/fd6dcf94-8be5-466a-bdce-bf8423faa027)
+
+- They may seem to interfer with IPD adjustment, but try folding them so they take a twist as they travel behind the PCB and between the screens. Keep in mind you may loose about 3mm of IPD due to the LED placment when using solder less kit.
+- Then they can be massaged through the vent holes in the frunk along with the extended LED power wires.
+
+![image](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/c754b300-ecd5-4464-b1a7-9f2dc4894f6c)
 
 ### Finalizing
+- Plug everything in and secure the covers with M2x5mm Countersink Self-tapping screws
 
+![image](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/67f0c657-843d-442d-97dd-5f78bee0b4ff)
+![image](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/c9c60c26-1061-466f-9613-d339a1038839)
+
+- Use a Command Strip or piece of foam to ensure dongle does not come out during extreme VR stunts.
 
