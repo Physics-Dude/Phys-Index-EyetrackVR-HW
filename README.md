@@ -22,7 +22,7 @@ An evolution of bitbyt3r's index-eyetrackvr mounts for the Valve Index found her
 - Print in black PETG
 - Mirror the provided file for the opposite eye
 - If you need to extend the wires a bit, stagger your cuts to prevent the joints from ever touching.
-- 
+
 ![image](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/733aed90-dc2c-43e0-855d-7d30ac13537b)
 
 
