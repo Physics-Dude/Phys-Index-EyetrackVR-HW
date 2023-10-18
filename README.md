@@ -68,7 +68,8 @@ Steps specific to the dongle are as follows.
 - ENABLE SUPPORT MATERIAL on build plate only but dont support bridges!
 
 ### Mod the hub
-- Take the aforementioned USB hub apart and de-solder all the connectors. Save at least one of the small USB 2.0 ones.
+- Take the aforementioned USB hub apart (it slides out with a little force) and de-solder all the connectors. Save at least one of the small USB 2.0 ones.
+- 
 ![image](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/3a32afaa-90f1-43b7-b7e9-bd138087fbd3)
 
 ### Place
