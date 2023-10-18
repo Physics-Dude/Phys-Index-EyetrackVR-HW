@@ -2,7 +2,7 @@
 Custom solution for a clean, unobtrusive, EyeTrackVR installation in the **Valve Index**.  
 
 ### Project includes:
-- Custom camera and LED mounts based on bitbyt3r's design
+- Custom camera and LED mounts based on bitbyt3r's design that may be preferable to any builder.
 - All-in-one dongle that carries a USB hub, 2x XIAO ESP32s, the ETVR v4 PCB, and an extra USB port.
 
 Everything fits entirely within the envelope of the Valve Index. No modifications to the Valve Index headset are required whatsoever; just some clever cable routing. 
