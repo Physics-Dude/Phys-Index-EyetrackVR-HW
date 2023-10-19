@@ -2,19 +2,19 @@
 Custom solution for a clean, unobtrusive, EyeTrackVR installation in the **Valve Index**.  
 
 ### Project includes:
-- Custom camera and LED mounts based on bitbyt3r's design that may be preferable to any builder.
+- Custom, highly iterated camera and LED mounts based on bitbyt3r's design that may be preferable to any builder.
 - All-in-one dongle that carries a USB hub, 2x XIAO ESP32s, the ETVR v4 PCB, and an extra USB port.
 
 Everything fits entirely within the envelope of the Valve Index. No modifications to the Valve Index headset are required whatsoever; just some clever cable routing. 
 
-![new-sides](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/fa2789d8-38d1-46d1-b50f-b2bb1ed6ccf2)
+![newnewnewnwe](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/77e4141b-7da7-4cb3-ab16-d8d761c91930)
 
 # Build It! 
 
 ## Camera and LED mounts
 An evolution of bitbyt3r's index-eyetrackvr mounts for the Valve Index found here: https://github.com/bitbyt3r/index-eyetrackvr  
 
-![neweUntitled-2](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/6dccff6e-ee8d-46f6-b122-fabbcc76c0a5)
+![cad-shot](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/2cbf5d3a-373e-462f-b100-7af70c85c683)
 
 ### Changes:
 - Lowered all leds 0.5mm further from face.
@@ -22,7 +22,7 @@ An evolution of bitbyt3r's index-eyetrackvr mounts for the Valve Index found her
 - Chamfers and fillets for strength and comfort.
 - Tweaked the fit on the LED posts to prevent binding on solderless kits.
 - Moved the camera up to the side of the eye.
-- Moved the all the LEDs to a more optimal position near the camera to prevent specular reflections and silhouetting.
+- Moved the all the LEDs to a more optimal position to prevent specular reflections, shadows, and silhouetting.
 ### Tips:
 - Print in black PETG
 - Mirror the provided file for the opposite eye
@@ -86,16 +86,21 @@ Steps specific to the dongle are as follows.
 ![image](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/52638c85-f386-4deb-83b4-8d3549d063b0)
 
 ### LEDs!
-- You will follow the instructions in the ETVR docs and lengthen the mainfeed wires, but heres a picture:  
+- You will follow the instructions in the ETVR docs and lengthen a couple of the wires with 36-32awg wire.
+- The long main feed wires get extended to about 200-250mm, while two of the shorter wires get extended to about 80mm.
+- Tip: Stagger your cuts when lengthening them so the soldered ends can never touch.  
 (early version of the modified mounts)
 ![image](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/bbc47e03-1810-4876-a0a2-2518bddf8ec5)
+(latest version close up, installed )
+![anotehr-new-bpic](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/07cc44d5-29f0-4d2c-a342-a5a05c0465dd)
+
 
 ### Cable Routing
 - Your 200mm camera ribbons can be pushed up the "nose" of the headset and around the top of the PCB.
 
 ![PXL_20231018_004047633s](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/fd6dcf94-8be5-466a-bdce-bf8423faa027)
 
-- They may seem to interfere with IPD adjustment, but try folding them so they take a twist as they travel behind the PCB and between the screens. Keep in mind you may loose about 3mm of IPD due to the LED placement when using solder less kit.
+- They may seem to interfere with IPD adjustment, but try folding them so they take a twist as they travel behind the PCB and between the screens. Keep in mind you may loose a couple millimeters of IPD due to the LED placement when using solder less kit.
 - Then they can be massaged through the vent holes in the frunk along with the extended LED power wires.
 
 ![image](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/c754b300-ecd5-4464-b1a7-9f2dc4894f6c)
