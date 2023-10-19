@@ -7,28 +7,26 @@ Custom solution for a clean, unobtrusive, EyeTrackVR installation in the **Valve
 
 Everything fits entirely within the envelope of the Valve Index. No modifications to the Valve Index headset are required whatsoever; just some clever cable routing. 
 
-![PXL_20231018_00404763e3](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/8c080cf6-a962-46f6-8bd3-6d09f6639588)
+![new-sides](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/fa2789d8-38d1-46d1-b50f-b2bb1ed6ccf2)
 
 # Build It! 
 
 ## Camera and LED mounts
 An evolution of bitbyt3r's index-eyetrackvr mounts for the Valve Index found here: https://github.com/bitbyt3r/index-eyetrackvr  
 
-![ring1](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/75ffa358-d365-4c69-a2b8-b3b5f11d3ec9)
+![neweUntitled-2](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/6dccff6e-ee8d-46f6-b122-fabbcc76c0a5)
 
 ### Changes:
 - Lowered all leds 0.5mm further from face.
 - Thickened up thin points near LEDs so they are FDM-printable in a single fill-line.
 - Chamfers and fillets for strength and comfort.
 - Tweaked the fit on the LED posts to prevent binding on solderless kits.
-- Moved the leds on brow and nose around slightly to fit my face better.
+- Moved the camera up to the side of the eye.
+- Moved the all the LEDs to a more optimal position near the camera to prevent specular reflections and silhouetting.
 ### Tips:
 - Print in black PETG
 - Mirror the provided file for the opposite eye
 - If you need to extend the wires a bit, stagger your cuts to prevent the joints from ever touching.
-
-![image](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/733aed90-dc2c-43e0-855d-7d30ac13537b)
-
 
 ## Gum Stick USB Hub Dongle
 Built around a specific ultra-slim 3-port USB hub. Fits two XIAO ESP32-S3s and a ETVR v4 PCB, as well as a spare USB port.
@@ -75,7 +73,7 @@ Steps specific to the dongle are as follows.
 
 ### Place
 - Insert your dismantled USB hub into the dongle along with the spare USB port.
-- Verify that your XIAO ESPs and ETVR v4 PCB fit in their slots. It may be tight, but if not, use adheasives.
+- Verify that your XIAO ESPs and ETVR v4 PCB fit in their slots. It may be tight, but if not, use adhesives.
   
 ![image](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/74e7402d-450c-492f-b3a7-142a5baf3cda)
 
@@ -88,17 +86,16 @@ Steps specific to the dongle are as follows.
 ![image](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/52638c85-f386-4deb-83b4-8d3549d063b0)
 
 ### LEDs!
-- You will follow the instructions in the ETVR docs and lengthen acouple wires, but heres a picutre:
-
+- You will follow the instructions in the ETVR docs and lengthen the mainfeed wires, but heres a picture:  
+(early version of the modified mounts)
 ![image](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/bbc47e03-1810-4876-a0a2-2518bddf8ec5)
-![image](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/8baa2691-1626-4aee-9ac5-a737e5327128)
 
 ### Cable Routing
 - Your 200mm camera ribbons can be pushed up the "nose" of the headset and around the top of the PCB.
 
 ![PXL_20231018_004047633s](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/fd6dcf94-8be5-466a-bdce-bf8423faa027)
 
-- They may seem to interfere with IPD adjustment, but try folding them so they take a twist as they travel behind the PCB and between the screens. Keep in mind you may loose about 3mm of IPD due to the LED placment when using solder less kit.
+- They may seem to interfere with IPD adjustment, but try folding them so they take a twist as they travel behind the PCB and between the screens. Keep in mind you may loose about 3mm of IPD due to the LED placement when using solder less kit.
 - Then they can be massaged through the vent holes in the frunk along with the extended LED power wires.
 
 ![image](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/c754b300-ecd5-4464-b1a7-9f2dc4894f6c)
