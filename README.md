@@ -88,12 +88,17 @@ Steps specific to the dongle are as follows.
 ### LEDs!
 - You will follow the instructions in the ETVR docs and lengthen a couple of the wires with 36-32awg wire.
 - The long main feed wires get extended to about 200-250mm, while two of the shorter wires get extended to about 80mm.
-- Tip: Stagger your cuts when lengthening them so the soldered ends can never touch.  
+- Tip: Stagger your cuts when lengthening your wires so the soldered ends can never touch.
+
+- Once you verify everyhting is working 100%, it might be a good idea to remove the unused connectors on the E/End LEDs. You can do this with a pair of snips and a soldering iron with fresh solder.  
+
+![image](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/80250e8e-1768-4d3f-9a32-dec9507a6a59)
+
 (early version of the modified mounts)
 ![image](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/bbc47e03-1810-4876-a0a2-2518bddf8ec5)
+
 (latest version close up, installed )
 ![anotehr-new-bpic](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/07cc44d5-29f0-4d2c-a342-a5a05c0465dd)
-
 
 ### Cable Routing
 - Your 200mm camera ribbons can be pushed up the "nose" of the headset and around the top of the PCB.
