@@ -63,7 +63,7 @@ Steps specific to the dongle are as follows.
 
 ### Print 
 - Print all 3 parts in PETG
-- Refer or use the "PRINT ME" file for suggest orientations.
+- Refer or use the "PRINT ME" file for suggested orientations.
 - ENABLE SUPPORT MATERIAL on build plate only.
 
 ### Mod the hub
