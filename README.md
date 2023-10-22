@@ -69,10 +69,10 @@ Steps specific to the dongle are as follows.
 ### Mod the hub
 - Take the aforementioned USB hub apart (it slides out when you plug something in the end with a little force) and de-solder all the connectors. Save at least one of the small USB 2.0 ones.
 
-![image](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/3a32afaa-90f1-43b7-b7e9-bd138087fbd3)
+![Untitled-1pin](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/575eaa7e-68a8-4790-8bea-ba3762f84eda)
 
 ### Place
-- Insert your dismantled USB hub into the dongle along with the spare USB port.
+- Insert your dismantled USB hub into the dongle along with the spare USB port. Make sure you removed all the support material in that cavity. 
 - Verify that your XIAO ESPs and ETVR v4 PCB fit in their slots. It may be tight, but if not, use adhesives.
   
 ![image](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/74e7402d-450c-492f-b3a7-142a5baf3cda)
@@ -106,13 +106,13 @@ Steps specific to the dongle are as follows.
 
 ![PXL_20231018_004047633s](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/fd6dcf94-8be5-466a-bdce-bf8423faa027)
 
-- They may seem to interfere with IPD adjustment, but try folding them so they take a twist as they travel behind the PCB and between the screens. Keep in mind you may loose a couple millimeters of IPD due to the LED placement when using solder less kit.
+- They may seem to interfere with IPD adjustment, but try folding them so they take a twist as they travel behind the PCB and between the screens. Keep in mind you may loose a couple millimeters of IPD due to the LED placement when using solder-less kit.
 - Then they can be massaged through the vent holes in the frunk along with the extended LED power wires.
 
 ![image](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/c754b300-ecd5-4464-b1a7-9f2dc4894f6c)
 
 ### Finalizing
-- Plug everything in and secure the covers with M2x5mm Countersink Self-tapping screws
+- Plug everything in and secure the optional covers with M2x5mm Countersink Self-tapping screws.
 
 ![image](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/67f0c657-843d-442d-97dd-5f78bee0b4ff)
 ![image](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/c9c60c26-1061-466f-9613-d339a1038839)
