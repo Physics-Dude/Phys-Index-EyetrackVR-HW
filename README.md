@@ -121,7 +121,7 @@ Steps specific to the dongle are as follows.
 
 - I also found that folding the camera ribbons like so can help teach them where to go.
   
-  ![teach](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/0105fbfa-9eca-46bd-bde5-11b6f7d56244)
+![teach](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/0105fbfa-9eca-46bd-bde5-11b6f7d56244)
 
 ### Finalizing
 - Plug everything in and secure the optional covers with M2x5mm Countersink Self-tapping screws.
