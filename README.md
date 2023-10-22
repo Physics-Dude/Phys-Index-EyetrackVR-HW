@@ -73,7 +73,7 @@ Steps specific to the dongle are as follows.
 
 ### Place
 - Insert your dismantled USB hub into the dongle along with the spare USB port. Make sure you removed all the support material in that cavity. 
-- Verify that your XIAO ESPs and ETVR v4 PCB fit in their slots. It may be tight, but if not, use adhesives.
+- Verify that your XIAO ESPs and ETVR v4 PCB fit in their slots. It may be tight, but if not, use adhesives. Careful not to crush the ESP's buttons or riser connector!
   
 ![image](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/74e7402d-450c-492f-b3a7-142a5baf3cda)
 
@@ -111,6 +111,16 @@ Steps specific to the dongle are as follows.
 
 ![image](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/c754b300-ecd5-4464-b1a7-9f2dc4894f6c)
 
+- It might help to gently fold your ribbon cable like so to get it to fit in the frunk vent holes. Note that some vent slots are blocked when assembled. 
+
+![image](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/569eec91-3671-47af-9a7f-06ae1c785979)
+
+- Pinch point! Watch here when the face pad is mounted. It's possible the ribbon cable can get trapped under this lip when adjusting screen-face distance.
+  
+![pibce](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/e1828f6e-10d7-4bcf-89d2-83165ef862a6) 
+
+- A small bend in the wire will teach it to stay away.
+  
 ### Finalizing
 - Plug everything in and secure the optional covers with M2x5mm Countersink Self-tapping screws.
 
