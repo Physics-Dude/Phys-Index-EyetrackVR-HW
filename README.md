@@ -115,12 +115,14 @@ Steps specific to the dongle are as follows.
 
 ![image](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/569eec91-3671-47af-9a7f-06ae1c785979)
 
-- Pinch point! Watch here when the face pad is mounted. It's possible the ribbon cable can get trapped under this lip when adjusting screen-face distance.
+- Pinch point! Watch here when the face pad is mounted. It's possible the ribbon cable can get trapped under this lip when adjusting screen-face distance. A small bend in the wire will teach it to stay away.
   
 ![pibce](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/e1828f6e-10d7-4bcf-89d2-83165ef862a6) 
 
-- A small bend in the wire will teach it to stay away.
+- I also found that folding the camera ribbons like so can help teach them where to go.
   
+  ![teach](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/0105fbfa-9eca-46bd-bde5-11b6f7d56244)
+
 ### Finalizing
 - Plug everything in and secure the optional covers with M2x5mm Countersink Self-tapping screws.
 
