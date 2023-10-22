@@ -64,7 +64,7 @@ Steps specific to the dongle are as follows.
 ### Print 
 - Print all 3 parts in PETG
 - Refer or use the "PRINT ME" file for suggest orientations.
-- ENABLE SUPPORT MATERIAL on build plate only but dont support bridges!
+- ENABLE SUPPORT MATERIAL on build plate only.
 
 ### Mod the hub
 - Take the aforementioned USB hub apart (it slides out with a little force) and de-solder all the connectors. Save at least one of the small USB 2.0 ones.
