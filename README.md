@@ -16,6 +16,9 @@ An evolution of bitbyt3r's index-eyetrackvr mounts for the Valve Index found her
 
 ![cad-shot](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/2cbf5d3a-373e-462f-b100-7af70c85c683)
 
+Light pattern:
+![image](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/b65318e4-dffa-4f31-8510-e072caaddef4)
+
 ### Changes:
 - Lowered all leds 0.5mm further from face.
 - Thickened up thin points near LEDs so they are FDM-printable in a single fill-line.
