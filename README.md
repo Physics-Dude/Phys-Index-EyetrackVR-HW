@@ -71,6 +71,7 @@ Steps specific to the dongle are as follows.
 
 ### Mod the hub
 - Take the aforementioned USB hub apart (it slides out when you plug something in the end with a little force) and de-solder all the connectors. Save at least one of the small USB 2.0 ones.
+- I suggest using a hot air tool if possible. Addind your own flux and leaded solder will make desoldering easier too regardless.
 
 ![Untitled-1pin](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/575eaa7e-68a8-4790-8bea-ba3762f84eda)
 
