@@ -91,6 +91,9 @@ Steps specific to the dongle are as follows.
 ![image](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/ebd1d97f-1db6-4820-9f7b-50051227cad2)
 ![image](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/52638c85-f386-4deb-83b4-8d3549d063b0)
 
+- quick wiring diagram to mitigate confusion
+![image](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/c227dea9-11b9-47e1-90f2-7a918ab716e7)
+
 ### LEDs!
 - You will follow the instructions in the ETVR docs and lengthen a couple of the wires with 36-32awg wire.
 - The long main feed wires get extended to about 200-250mm, while two of the shorter wires get extended to about 80mm.
