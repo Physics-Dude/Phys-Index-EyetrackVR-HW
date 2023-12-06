@@ -138,4 +138,21 @@ Steps specific to the dongle are as follows.
 ![image](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/c9c60c26-1061-466f-9613-d339a1038839)
 
 - Use a Command Strip or piece of foam to ensure dongle does not come out during extreme VR stunts.
+  
+### Camera mount for Babble Face Tracking (uses same ESPs and Cameras)
+- This part is in development, but working nicely from the start. You'll have to observe the pictures below to duplicate the build for your specific hardware.
+
+![image](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/29765642-3fc5-432b-9d63-2af36fa26830)
+![image](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/9c8fe1c3-a4ec-45bc-9c82-ff1429f1dfdb)
+![pic](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/c2ea9a12-7320-4d55-9092-9b84f9668175)
+
+## In summary:
+- Use the same XIAO ESPs, with the same OpenIris firmware as the eye trackers.
+- Use the same 2mm long OV2640 160 degrees night version IR camera module.
+- Use two 3mm IR LEDs wired in series with a 220R resister on the 5v VBUS rail (use the 3V3 rail or a larger resistor for more efficient LEDs). I sanded the lenses down on my leds for a wider, softer spread as well. 
+- 3D print the print file in the Babble Face Tracker Cam-LED Mount folder with support material enabled.
+- Stick camera mount base and cable clip to your Valve Index with double-sided VHB tape as shown.
+- Use a 25mm countersink M3 screw with lock nut for the hinge.
+- XIAO ESP can be placed at the end of the Gum Stick with more VBH tape.
+
 
