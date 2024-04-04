@@ -55,7 +55,7 @@ Found on the likes of Amazon and Aliexpress. Its easy to modify for our purpose.
 - 1x Solder-less V4 kit - https://store.eyetrackvr.dev/products/v4-mini-fully-solderless-kit
 - Misc 28-32AWG wire for lengthening LED power wires
 - 7x M2x5mm Countersink Self-tapping screws
-- 2x OV2640 160 degrees night version camera module 200MM (select 200MM night vision) - https://www.aliexpress.us/item/3256803720134565.html
+- 2x OV2640 160 degrees night version camera module 200MM (select 200MM night vision) - https://www.aliexpress.us/item/3256803720134565.html - https://www.aliexpress.us/item/3256804483974787.html
   
 ![image](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/6d43e56d-f3b4-4b63-8018-cfa709f892cf)
 
@@ -73,6 +73,7 @@ Steps specific to the dongle are as follows.
 
 ### Mod the hub
 - Take the aforementioned USB hub apart (it slides out when you plug something in the end with a little force) and de-solder all the connectors. Save at least one of the small USB 2.0 ones.
+- If the case is stuck, you may have to get a Dremel or some snips and nip away at the corners, careful not to cut the PCB.
 - I suggest using a hot air tool if possible. Adding your own flux and leaded solder will make desoldering easier too regardless.
 
 ![Untitled-1pin](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/575eaa7e-68a8-4790-8bea-ba3762f84eda)
