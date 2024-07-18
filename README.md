@@ -144,6 +144,7 @@ Steps specific to the dongle are as follows.
   
 ### Camera mount for Babble Face Tracking (uses same ESPs and Cameras)
 - This part is in development, but working nicely from the start. You'll have to observe the pictures below to duplicate the build for your specific hardware.
+- P.S. Did you notice the holes for a 25mm fan? Is optional, but there if you want to keep your ESPs chilly. 
 
 ![image](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/29765642-3fc5-432b-9d63-2af36fa26830)
 ![image](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/9c8fe1c3-a4ec-45bc-9c82-ff1429f1dfdb)
