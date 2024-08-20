@@ -155,7 +155,7 @@ Steps specific to the dongle are as follows.
 ## In (experimental) summary:
 - Use the same XIAO ESPs, with the same OpenIris firmware as the eye trackers.
 - Use the same 200mm long OV2640 160 degrees night version IR camera module.
-- Use two 3mm IR LEDs wired in series with a 220R resister on the 5v VBUS rail (use the 3V3 rail or a larger resistor for more efficient LEDs). I sanded the lenses down on my leds for a wider, softer spread as well. 
+- Use two 3mm IR LEDs wired in series with a 100R resister on the 5v VBUS rail (use the 3V3 rail or a larger value resistor if you have more efficient LEDs). I sanded the lenses down on my leds for a wider, softer spread as well. 
 - 3D print the print file in the Babble Face Tracker Cam-LED Mount folder with support material enabled. (EXTENDED version also available, print both to see what works for you)
 - Stick camera mount base and cable clip to your Valve Index with double-sided VHB tape as shown.
 - Use a 25mm countersink M3 screw with lock nut for the hinge.
