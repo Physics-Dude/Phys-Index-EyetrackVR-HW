@@ -141,6 +141,11 @@ Steps specific to the dongle are as follows.
 ![image](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/c9c60c26-1061-466f-9613-d339a1038839)
 
 - Use a Command Strip or piece of foam to ensure dongle does not come out during extreme VR stunts.
+- Big nose? Consider removing the unused connector on the End LED if you expierence contact in that area. Felt may also be added for comfort.
+![nose-bridge](https://github.com/user-attachments/assets/d6a93981-08d7-492f-8305-4b4bf575e079)
+
+
+
   
 ### Camera mount for Babble Face Tracking (uses same ESPs and Cameras)
 - This part is in development, but working nicely from the start. You'll have to observe the pictures below to duplicate the build for your specific hardware.
