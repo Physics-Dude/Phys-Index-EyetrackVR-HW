@@ -45,7 +45,8 @@ Found on the likes of Amazon and Aliexpress. Its easy to modify for our purpose.
 - "3 Ports Multiple Expander with 1 USB3.0 and 2 USB2.0 Ports Type-C3.0/USB3.0 To 3USB HUB Ultra Slim Splitter 480Mbps-5.0Gbps"
 - "3 Port USB 3.0 USB Hub 2.0 Multi Type-C Ultra Slim Splitter Hub Use Power Adapter Multiple Expander 2.0 USB 3.0 Hub for PC"
 #### Links:
-- Amazon: https://www.amazon.com/gp/product/B0BQ68QGYJ/  
+- ~~Amazon: https://www.amazon.com/gp/product/B0BQ68QGYJ/~~ (Listing updated and now shows similar but different product.)
+- Amazon: https://www.amazon.com/YaimhSound-Extender-Splitter-Extension-Keyborad/dp/B0BXJ21DXZ
 - Aliexpress (choose the normal USB version): https://www.aliexpress.us/item/3256805344126437.html
 #### Note/Avoid: 
 - Avoid similar looking USB hubs with an LED indicator present between the two side-mounted ports. These likely won't fit since the PCB design on these seems to be flipped. If you do come across one such USB hub, consider using the (currently untested) no-spacer alternitive which gives you about 1mm of room to route soldered wires under the hub's PCB. [Gum Stick Dongle Custom USB Hub Case/No-Spacer alternate - XIAO-ESP32S3 ETVR v4 gum stick index mount v24.stl](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/blob/main/Gum%20Stick%20Dongle%20Custom%20USB%20Hub%20Case/No-Spacer%20alternate%20-%20XIAO-ESP32S3%20ETVR%20v4%20gum%20stick%20index%20mount%20v24.stl) 
