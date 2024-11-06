@@ -39,7 +39,8 @@ Built around a specific ultra-slim 3-port USB hub. Fits two XIAO ESP32-S3s and a
 ### You need this specific USB hub (various brands)
 Found on the likes of Amazon and Aliexpress. Its easy to modify for our purpose.
 
-![image](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/8e3a4ef0-a15b-4418-8a45-440920a90913)
+![image](https://github.com/user-attachments/assets/bdcc733b-51bd-4ede-82bb-b1b84189679e)
+
 #### Common Titles:
 - "USB Hub 3.0 Extender 3-Port, sartyee Computer Networking Hubs for MacBook, Mac Pro, iMac, Ps4/5, Surface Pro,Flash Drive, Keyboard, Mouse, Windows"
 - "3 Ports Multiple Expander with 1 USB3.0 and 2 USB2.0 Ports Type-C3.0/USB3.0 To 3USB HUB Ultra Slim Splitter 480Mbps-5.0Gbps"
