@@ -1,12 +1,9 @@
-# Renz-Index-EyetrackVR-HW
-Custom solution for a clean, unobtrusive, EyeTrackVR installation in the **Valve Index**.
+# Phys-Index-EyetrackVR-HW
+Custom solution for a clean, unobtrusive, EyeTrackVR installation in the **Valve Index**.  
 
-### Project Details:
-- Based on the origional Gumstick by **Physics Dude** https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW.
-- Remix includes slots for 3x XIAO ESP32-S3 Sense Modules - 2x for Eye Track VR and 1x for Project Babble.
-- A smaller all-in-one USB Hub pcb board is used in place of the origional Gumstick version, benifits from no dissasembly required.
-- Optional USB-C port at the end, allows for the use of the origional HTC Vive Mouth Tracker or other devices like wired headphones.
-- Custom, highly iterated camera and LED mounts based on bitbyt3r's design that may be preferable to any builder, Supports most OV2640 cameras with an 8mm square & 2mm tall base.
+### Project includes:
+- Custom, highly iterated camera and LED mounts based on bitbyt3r's design that may be preferable to any builder. Supports most OV2640 cameras with an 8mm square, 2mm tall base.
+- All-in-one dongle that carries a USB hub, 2x XIAO ESP32s, the ETVR v4 PCB, and an extra USB port.
 
 Everything fits entirely within the envelope of the Valve Index. No modifications to the Valve Index headset are required whatsoever; just some clever cable routing. 
 
