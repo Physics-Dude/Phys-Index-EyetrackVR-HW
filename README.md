@@ -9,7 +9,13 @@ Everything fits entirely within the envelope of the Valve Index. No modification
 
 ![newnewnewnwe](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/77e4141b-7da7-4cb3-ab16-d8d761c91930)
 
-# Build It! 
+### NEW! Gum Stick Remix (GSR) by Renzath
+- Supports an aditional ESP for face tracking, and uses a different USB hub.
+- Full writeup TBD
+
+  Photo TBD
+
+# Build the Original Gumstick Project! 
 
 ## Camera and LED mounts
 An evolution of bitbyt3r's index-eyetrackvr mounts for the Valve Index found here: https://github.com/bitbyt3r/index-eyetrackvr  
@@ -18,6 +24,8 @@ An evolution of bitbyt3r's index-eyetrackvr mounts for the Valve Index found her
 
 Light pattern:
 ![image](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/b65318e4-dffa-4f31-8510-e072caaddef4)
+
+Files: https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/tree/main/ETVR%20ValveIndex%20Cam-LED%20Mount%20Rings
 
 ### Changes:
 - Lowered all leds 0.5mm further from face.
@@ -33,6 +41,8 @@ Light pattern:
 
 ## Gum Stick USB Hub Dongle
 Built around a specific ultra-slim 3-port USB hub. Fits two XIAO ESP32-S3s and a ETVR v4 PCB, as well as a spare USB port.
+
+Files: https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/tree/main/Gum%20Stick%20Dongle%20Custom%20USB%20Hub%20Case
 
 ![PXL_20231018_0040476332](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/da7355d1-1a2c-4d7f-8379-2673ab07c646)
 
@@ -68,25 +78,28 @@ Follow the EyetrackVR docs for primary assembly and programming: https://docs.ey
 
 Steps specific to the dongle are as follows.
 
-### Print 
-- Print all 3 parts in PETG
+### 1. Print 
+- Print all 3 parts of the Gumstick in PETG
+  - Files: https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/tree/main/Gum%20Stick%20Dongle%20Custom%20USB%20Hub%20Case
+- Print a Left and Right pair of the camera/LED mount rings if you have not already/
+  - Files: https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/tree/main/ETVR%20ValveIndex%20Cam-LED%20Mount%20Rings
 - Refer or use the "PRINT ME" file for suggested orientations.
 - ENABLE SUPPORT MATERIAL on build plate only.
 
-### Mod the hub
+### 2. Mod the USB hub
 - Take the aforementioned USB hub apart (it slides out when you plug something in the end with a little force) and de-solder all the connectors. Save at least one of the small USB 2.0 ones.
-- If the case is stuck, you may have to get a Dremel or some snips and nip away at the corners, careful not to cut the PCB.
-- I suggest using a hot air tool if possible. Adding your own flux and leaded solder will make desoldering easier too regardless.
+- If the case is stuck, you may have to get a Dremel or some snips and nip away at the corners, careful not to cut the PCB. It is only glued near the input USB.
+- I suggest using a hot air tool if possible to remove the connectors. Adding your own flux and leaded solder will make desoldering easier too regardless.
 
 ![Untitled-1pin](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/575eaa7e-68a8-4790-8bea-ba3762f84eda)
 
-### Place
+### 3. Place
 - Insert your dismantled USB hub into the dongle along with the spare USB port. Make sure you removed all the support material in that cavity. 
 - Verify that your XIAO ESPs and ETVR v4 PCB fit in their slots. It may be tight, but if not, use adhesives. Careful not to crush the ESP's buttons or riser connector!
   
 ![image](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/74e7402d-450c-492f-b3a7-142a5baf3cda)
 
-### Solder
+### 4. Solder
 - Solder your VUSB, GND, D+ and D- wires to your ESPs now.
 - Use the square ground pad on the bottom of the XIAO ESP for ground (not the GND pin on the edge of the board). 
 - Observe the Connector orientation of the original USB hub and refrence it to a pin-out diagram of the USB A port. 
@@ -99,7 +112,9 @@ Steps specific to the dongle are as follows.
 - quick wiring diagram to mitigate confusion
 ![image](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/c227dea9-11b9-47e1-90f2-7a918ab716e7)
 
-### LEDs!
+- Still confused? This diagram might help: https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/issues/5#issuecomment-2413598211
+
+### 6. LEDs!
 - You will follow the instructions in the ETVR docs and lengthen a couple of the wires with 36-32awg wire.
 - The long main feed wires get extended to about 200-250mm, while two of the shorter wires get extended to about 80mm.
 - Tip: Stagger your cuts when lengthening your wires so the soldered ends can never touch.
@@ -114,7 +129,7 @@ Steps specific to the dongle are as follows.
 (latest version close up, installed )
 ![anotehr-new-bpic](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/07cc44d5-29f0-4d2c-a342-a5a05c0465dd)
 
-### Cable Routing
+### 7. Cable Routing
 - Your 200mm camera ribbons can be pushed up the "nose" of the headset and around the top of the PCB.
 
 ![PXL_20231018_004047633s](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/fd6dcf94-8be5-466a-bdce-bf8423faa027)
@@ -136,8 +151,9 @@ Steps specific to the dongle are as follows.
   
 ![teach](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/0105fbfa-9eca-46bd-bde5-11b6f7d56244)
 
-### Finalizing
+### 8. Finalizing
 - Plug everything in and secure the optional covers with M2x5mm Countersink Self-tapping screws.
+- P.S. Did you notice the holes for a 25mm fan? Is optional, but there if you want to keep your ESPs chilly.
 
 ![image](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/67f0c657-843d-442d-97dd-5f78bee0b4ff)
 ![image](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/c9c60c26-1061-466f-9613-d339a1038839)
@@ -147,11 +163,10 @@ Steps specific to the dongle are as follows.
 ![nose-bridge](https://github.com/user-attachments/assets/d6a93981-08d7-492f-8305-4b4bf575e079)
 
 
-
   
 ### Camera mount for Babble Face Tracking (uses same ESPs and Cameras)
 - This part is in development, but working nicely from the start. You'll have to observe the pictures below to duplicate the build for your specific hardware.
-- P.S. Did you notice the holes for a 25mm fan? Is optional, but there if you want to keep your ESPs chilly. 
+- Files: https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/tree/main/Babble%20Face%20Tracker%20Cam-LED%20Mount
 
 ![image](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/29765642-3fc5-432b-9d63-2af36fa26830)
 ![image](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/assets/22563517/9c8fe1c3-a4ec-45bc-9c82-ff1429f1dfdb)
